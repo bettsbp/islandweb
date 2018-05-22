@@ -4,6 +4,6 @@
 ### Installation
 *1. open the terminal
 2. navigate to the desktop
-3. use the command 'git clone https://github.com/bettsbp/islandweb'
+3. clone with link from github repo
 4. ???
 5. profit*
